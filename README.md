@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React Native Navigation und API-Demo
 
 Dieses Projekt ist eine Beispielanwendung, die die Verwendung von React Native für die Navigation zwischen verschiedenen Bildschirmen und das Abrufen von Daten über API-Aufrufe demonstriert.
@@ -55,3 +56,7 @@ Um die Anwendung auszuführen, verwenden Sie einen der folgenden Befehle, je nac
 - **Axios:** Eine einfach zu verwendende HTTP-Clientbibliothek für Node.js und den Browser.
 
 
+=======
+# React-Native-Navigation-API-Demo
+Ein React Native-Demo-Projekt, das die Implementierung von Navigation und API-Aufrufen demonstriert. Enthält eine Startseite zum Abrufen und Anzeigen von Daten aus einer öffentlichen API sowie eine Detailseite zur Anzeige von Elementdetails.
+>>>>>>> b5d9b66dd668d019f85d3354f5751868fa904977
