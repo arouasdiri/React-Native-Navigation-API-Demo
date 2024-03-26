@@ -25,9 +25,9 @@ const DetailScreen = ({ route }) => {
   };
 
   const getBackgroundColor = () => {
-    // Berechnen Sie eine Hintergrundfarbe basierend auf der ID
-    const hue = (parseInt(itemId) * 137) % 360; // Verwenden Sie eine einfache Berechnung, um die Farbe zu ändern
-    return `hsl(${hue}, 70%, 90%)`; // HSL-Farbraum für eine lebendige Farbpalette
+    
+    const hue = (parseInt(itemId) * 137) % 360;
+    return `hsl(${hue}, 70%, 90%)`; 
   };
 
   return (
